@@ -1,4 +1,29 @@
 Colors :HexCode
+
+CrestRed :#990000
+Darker Red :#74000e
+Orange :#c35a00
+Darker Orange :#ac3c00
+Darker Yellow :#eaa900
+Dark Gray 4 :#131315
+Green :#008e00
+Darker Green :#006e00
+CrestBlue :#011f5b
+Dark Gray 2 :#44464b
+Darker Blue :#00144d
+Purple :#4a0042
+Darker Purple :#2f0029
+Dark Gray 3 :#2e2f32
+
+
+Darkest Red :#57000a
+Darkest Orange :#812000
+Darkest Yellow :#af7f00
+Darkest Green :#005200
+Darkest Blue :#000f3a
+Darkest Purple :#230010
+
+
 CrestRed :#990000
 CrestBlue :#011f5b
 Yellow :#f2c100
@@ -8,52 +33,68 @@ Lighter Green :#00be00
 Lighter Purple :#890082
 
 
+Darker Red :#74000e
+Darker Orange :#ac3c00
+Darker Yellow :#eaa900
+Darker Green :#006e00
+Darker Blue :#00144d
+Darker Purple :#2f0029
+Light Gray 1 :#f2f2f3
+
+CrestRed :#990000
+CrestBlue :#011f5b
+Yellow :#f2c100
+Light Gray 4 :#bbbdc0
+Darker Orange :#ac3c00
+Lighter Green :#00be00
+Lighter Purple :#890082
+Light Gray 2 :#e0e1e3
+
+
+Lighter Red :#c2004d
+Lighter Blue :#045ea7
 Dark Gray 4 :#131315
 Orange :#c35a00
 Darkest Green :#005200
 Purple :#4a0042
+Light Gray 3 :#cfd0d2
 
 
 Darkest Blue :#000f3a
-Darker Blue :#00144d
+
 Blue :#01256e
 Lighter Blue :#045ea7
 Darkest Red :#57000a
 Darker Red :#74000e
 Red :#95001a
+White :#ffffff
 
 Lightest Blue :#82afd3
 Lightest Orange :#efcb80
 
-Light Gray 2 :#e0e1e3
-Light Gray 3 :#cfd0d2
 Light Gray 4 :#bbbdc0
 Medium Gray 4 :#6c6f76
-Dark Gray 2 :#44464b
-Dark Gray 3 :#2e2f32
+
 Dark Gray 4 :#131315
 
-
-Darkest Blue :#000f3a
 Darker Blue :#00144d
 Blue :#01256e
-Daughter Blue :#045ea7
+Lighter Blue :#045ea7
 Lightest Blue :#82af03
+Light Gray 1 :#f2f2f3
 
-Darkest Red :#57000a
-Darker Red :#74000e
+
 Red :#95001a
 Lighter Red :#c2004d
 Lightest Red :#e180a6
+Dark Gray 4 :#131315
+Light Gray 2 :#e0e1e3
 
-Darkest Yellow :#af7f00
 Darker Yellow :#eaa900
 Yellow :#f2c100
 Lighter Yellow :#f8de00
 Lightest Yellow :#fcef80
 
-Light Gray 1 :#f2f2f3
-Light Gray 2 :#e0e1e3
 Light Gray 3 :#cfd0d2
 Light Gray 4 :#bbbdc0
 
@@ -65,49 +106,23 @@ Medium Gray 4 :#6c6f76
 Dark Gray 1 :#595c61
 Dark Gray 2 :#44464b
 Dark Gray 3 :#2e2632
-Dark Gray 4 :#131315
 
-Darkest Green :#005200
-Darker Green :#006e00
+
 Green :#008e00
 Lighter Green :#00be00
 Lightest Green :#80df80
 
-Darkest Orange :#812000
-Darker Orange :#ac3c00
+
 Orange :#c35a00
 Lighter Orange :#d19700
 Lightest Orange :#efcb80
 
-Darkest Purple :#230010
-Darker Purple :#2f0029
 
 Lighter Purple :#890082
 Lightest Purple :#c480c1
 
 
-Apple 1 :#9d8e7c	
-Apple 2 :#5f5142	
-Apple 3 :#c3a078	
-Apple 4 :#d1a16e	
-Apple 5 :#b36a22
-Mermaid 1:#fda750
-Mermaid 1:#f97d4e
-Mermaid 1:#310949
-Mermaid 1:#b82a48
-Mermaid 1:#721646
-T1:#99B898   
-T2:#FECEAB   
-T3:#FF847C   
-T4:#E84A5F
-T5:#2A363B 
-T6:#FE4365   
-T7:#FC9D9A   
-T8:#F9CDAD   
-T9:#C8C8A9   
-TA:#83AF9B
-TB:#E5FCC2   
-TC:#9DE0AD   
-TD:#45ADA8   
-TE:#547980   
-TF:#594F4F
+Random 1:#8900ff
+Random 2:#c480ff
+Random 3:#ff0082
+Random 4:#ff80c1
